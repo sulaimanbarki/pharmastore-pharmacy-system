@@ -1,0 +1,11 @@
+#areaChart {
+    height: 250px;
+}
+
+#topTenSales {
+    height: 410px;
+}
+
+#revenue-chart {
+    position: relative; height: 500px;
+}

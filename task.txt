@@ -1,0 +1,52 @@
+Backend:
+1. Medicine Order: Create customer if not exist --done
+2. Graph Report: 
+2.1. Monthly Sale --Done
+2.2. New Item --done
+
+
+FrontEnd: 
+
+1. Home Page
+    1. Search Produdct --done
+    2. Slider (Discount) --done
+    3. Product Showing --done
+    4. Add to cart --done
+    5. Add to favorite --done
+    6. View Product details --done
+    7. Order place with event queue --done
+    8. Order email to Customer --done
+    9. Order email to Admin --done
+
+2. User Registration/Login
+    1. User Registration/Login --done
+    2. Favorite list --done
+    3. Order History --done
+    4. Order Details --done
+
+
+3. About us page --done
+4. Contact Us page --done
+5. Bkash payment method integration
+
+
+
+
+
+
+
+
+
+
+difficult
+1. Category page
+2. database / model / relationship design problem
+
+3. Page Script
+There was no section for page script only, I have to declear this on all blade page and call it from master blade
+
+Moniruzzaman:
+01716310478
+
+Al Amin 
+01918005128

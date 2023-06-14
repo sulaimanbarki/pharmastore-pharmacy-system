@@ -1,0 +1,45 @@
+#controlSideBarDark {
+    display: none;
+}
+
+
+#progressBarDangerFooter {
+    width: 70%;
+}
+
+
+#progressBarSuccessFooter {
+    width: 95%;
+}
+
+
+#progressBarWarningFooter {
+    width: 50%;
+}
+
+#progressBarPrimaryFooter {
+    width: 68%;
+}
+
+
+.content-header h1{
+    padding: 10px;
+    background: #fff;
+}
+
+
+#category_id {
+    width: 100%;
+}
+
+.float-right {
+    float: right;
+}
+
+.half-width-pct {
+    width:50%;
+}
+
+.margin-top-20 {
+    margin-top:20px;
+}

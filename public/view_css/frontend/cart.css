@@ -1,0 +1,13 @@
+.btn-cart-qty{
+    background-color: #62ab00;
+    padding: 9px 17px;
+    color: #fff000;
+}
+.cart-table td.pro-quantity .pro-qty {
+    width: 135px;
+    display: block;
+    margin: auto;
+}
+.cart-table .table tbody tr td {
+    padding: 20px 0px;
+}
